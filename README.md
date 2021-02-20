@@ -13,8 +13,8 @@ This dataset contains some artificial images of American streets in the 1960s. S
 This few-shot dataset contains:
 
 - 205 images and annotations.
-
 - 3 classes: car, person, motorcycle.
 - 7 unlabeled images.
+- 1280x720.
 
 [download](https://github.com/WhiteRobe/MD205-Datasets/releases/tag/v1)
